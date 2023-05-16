@@ -1606,3 +1606,10 @@ img.imagen3{
   background-size: cover;
   height: 100vh;
 }
+
+.tabla1{
+  border: 1px solid black;
+}
+.tabla1 td{
+  border: 1px solid black;
+}
